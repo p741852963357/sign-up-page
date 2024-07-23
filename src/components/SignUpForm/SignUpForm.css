@@ -1,0 +1,19 @@
+.sign-up-form {
+    padding: 1rem 4rem;
+}
+
+.sign-up-form h1{
+    color: dodgerblue;
+}
+
+.sign-up-form > .title{
+    margin-bottom: 2rem;
+}
+
+.link{
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+}
+
+

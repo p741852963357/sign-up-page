@@ -1,0 +1,26 @@
+.container{
+    height: 100%;
+    display: flex;
+    padding: 0;
+    flex-direction: column;
+}
+
+.menu{
+    height: 100%;
+}
+
+.content{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: start;
+}
+
+.cover{
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    background-image: url("./assets/cover.jpeg");
+}
+
